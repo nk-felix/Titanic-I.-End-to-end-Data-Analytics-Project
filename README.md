@@ -4,10 +4,10 @@ This project analyzes the survival rates of Titanic passengers based on factors 
 
 ## Project Structure
 
-- **/data**: Contains the Titanic dataset in CSV format.
-- **/scripts**: Python scripts for data cleaning, analysis, and visualization.
-- **/sql**: SQL queries for extracting data.
-- **/tableau**: Tableau workbooks with visualizations.
+- **data**: Contains the Titanic dataset in CSV format.
+- **scripts**: Python scripts for data cleaning, analysis, and visualization.
+- **sql**: SQL queries for extracting data.
+- **tableau**: Tableau workbooks with visualizations.
 
 ## Tools & Technologies
 - **SQL**: Used to extract relevant data from the dataset.
